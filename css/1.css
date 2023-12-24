@@ -1,0 +1,33 @@
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #d50133;
+  color:white;
+}
+
+.section__Rewards{
+  height: 500px;
+  background-image: url("../img/pattern_beans_coffe.png");
+  
+}
+
+h1{
+  font-size: 60px;
+  text-align: center;
+}
+.section__celebretiom{font-size: 33px}
+.section__celebretiom--img{
+  font-size: 33px;
+}
+
+footer{
+  font-size: 20px;
+  height: 50px;
+  text-align: right;
+  background-image: url("../img/pattern_beans_coffe.png");
+  color: white;
+}
+
+.Block{
+  color: white;
+}
+a{color: white;}
